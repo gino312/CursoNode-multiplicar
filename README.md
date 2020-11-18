@@ -1,4 +1,11 @@
 
+## Multiplicar Console App
 
-##listar, Imprime en consola la tabla de multiplicar
-##crear Genera un archivo con el listado de multiplicacion entregado en base hasta el limite
+Esta es una aplicacion para generar archivos de tablas de multiplicar
+
+Ejecutar este comando
+
+```
+
+npm install
+```
